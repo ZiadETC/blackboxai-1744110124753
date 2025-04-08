@@ -1,0 +1,29 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Mhraganat Plus</string>
+
+    <!-- Navigation Titles -->
+    <string name="library_title">Library</string>
+    <string name="player_title">Player</string>
+    <string name="settings_title">Settings</string>
+
+    <!-- Common Strings -->
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="favorites">Favorites</string>
+    <string name="playlists">Playlists</string>
+    <string name="search_hint">Search tracks...</string>
+    <string name="add_playlist">Add playlist</string>
+
+    <!-- Settings Strings -->
+    <string name="theme_settings">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="playback_settings">Playback Settings</string>
+    <string name="storage_settings">Storage Settings</string>
+</resources>
